@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/jgcodes/Documents/Code/C++/sm64-fstbf-v2",
+  "command": "/opt/intel/oneapi/compiler/2024.1/bin/icpx  -I/opt/intel/oneapi/compiler/2024.1/include   -fsycl -o CMakeFiles/sm64-fstbf-v2.dir/src/main.cpp.o -c /home/jgcodes/Documents/Code/C++/sm64-fstbf-v2/src/main.cpp",
+  "file": "/home/jgcodes/Documents/Code/C++/sm64-fstbf-v2/src/main.cpp",
+  "output": "CMakeFiles/sm64-fstbf-v2.dir/src/main.cpp.o"
+}
+]
